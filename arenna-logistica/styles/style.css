@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url(/arenna-logistica/styles/cabeçalho.css);
+@import url(/arenna-logistica/styles/grupo.css);
+@import url(/arenna-logistica/styles/servicos.css);
+@import url(/arenna-logistica/styles/noticias.css);
+@import url(/arenna-logistica/styles/rodape.css);
+
+:root{
+    --cor-fundo: #2D2D2D;
+    --cor-branca: #FFFFFF;
+    --cor-cinza: #c6d6d6;
+    --cor-degrade: linear-gradient(#ff8826, #ffb914);
+    --cor-laranja: #F68721;
+    --fonte-principal: "Montserrat", sans-serif;
+}
